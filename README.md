@@ -1,1 +1,1 @@
-将我的CF隧道SD00信息用于此处，制作成一个docker镜像（如右侧gclip软件包），借助railway部署3个纯净的住宅IP节点！
+将我的CF隧道SD00信息用于此处，制作成一个docker镜像（如右侧nodejs软件包），借助railway部署3个纯净的住宅IP节点！
